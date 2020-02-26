@@ -1,4 +1,4 @@
 # Morse-Converter
 Simple text converter to morse code.
 ## Screenshots
-![Example screenshot](screenshot/fot1.png)
+![Example screenshot](screenshot/morse1.png)
