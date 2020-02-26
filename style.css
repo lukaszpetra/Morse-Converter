@@ -1,0 +1,95 @@
+@import url(reset.css);
+
+body{
+    background-color: #1A1A1D;
+    color:#fff;
+    font-family: 'Source Code Pro';
+}
+
+.container{
+    height: 380px;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #1A1A1D;
+    margin-top: 150px;
+    border: 3px dashed #05386B;
+    border-radius: 15px;
+}
+
+h1{
+    padding: 20px;
+    color: #05386B;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 60px;
+    padding: 20px;
+    color:#05386B;
+    text-align: center
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px 55px;
+    border: 2px dashed  #05386B;
+    background-color:  #1A1A1D;
+    color: #05386B;
+    border-radius: 15px; 
+    font-weight: bold;
+}
+
+textarea{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: #1A1A1D;
+    color: #05386B;
+    outline: none;
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    resize: none;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
