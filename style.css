@@ -12,13 +12,13 @@ body{
     margin: 0 auto;
     background-color: #1A1A1D;
     margin-top: 150px;
-    border: 3px dashed #05386B;
+    border: 3px dashed #FFE400;
     border-radius: 15px;
 }
 
 h1{
     padding: 20px;
-    color: #05386B;
+    color:  #FFE400;
     font-size: 35px;
     text-align: center;
     margin-bottom: 30px;
@@ -28,7 +28,7 @@ h2{
     font-size: 50px;
     margin-top: 60px;
     padding: 20px;
-    color:#05386B;
+    color :#FFE400;
     text-align: center
 }
 
@@ -40,9 +40,9 @@ input{
     text-decoration: none;
     cursor: pointer;
     padding: 10px 55px;
-    border: 2px dashed  #05386B;
+    border: 2px dashed   #FFE400;
     background-color:  #1A1A1D;
-    color: #05386B;
+    color: #FFE400;
     border-radius: 15px; 
     font-weight: bold;
 }
@@ -52,7 +52,7 @@ textarea{
     text-decoration: none;
     text-align: center;
     background-color: #1A1A1D;
-    color: #05386B;
+    color: #FFE400;
     outline: none;
     font-size: 20px;
     margin-top: -25px;
